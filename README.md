@@ -1,7 +1,6 @@
 ### Olá! Sejam todos Bem Vindos eu sou o Fábio Dias 👨‍🎓 Estudande de Tecnologia. 
 ## Sempre em busca de Conhecimento 📚
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fabiodias97&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodias97&layout=compact&theme=dark&langs_count=10)](https://github.com/fabiodias97/github-readme-stats)
 
 ##  Linguagens e Tecnologias que estou  Estudando no momento
 <div style="display: inline_block"><br>
